@@ -21,4 +21,8 @@ In this project, I created an Azure Virtual Machine in a Resource Group with a V
 - Linux CLI
 
 ## Steps
-[to follow]
+![azure_vm_architecture](https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/60715504/7ce3304a-f3c2-47c9-9a8f-99c25841ca38)
+1. Network diagram
+
+
+[more to follow]
